@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+.container{
+    top: 100px;
+}
+img{
+    width:100%;    
+    padding: 5px;
+}
